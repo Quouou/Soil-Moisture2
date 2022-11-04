@@ -4,3 +4,5 @@ The aim of the study is to have an Arduino moisture sensor gather data on the so
 
 Christopher Rey B. Benedicto - 17-0311-71
 Lance Ezeckel P. Fernando - 20-0277-29
+Marc Anthony P. Ocana - 14-1138-23
+
